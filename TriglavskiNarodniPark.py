@@ -1,5 +1,4 @@
 import streamlit as st
-import requests
 st.set_page_config(page_title="Triglavski Narodni Park", page_icon=":🍃:", layout="wide")
 
 st.title("Triglavski Narodni Park")
