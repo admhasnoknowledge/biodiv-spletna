@@ -6,7 +6,7 @@ st.set_page_config(page_title="Rastlinstvo v TNP", page_icon=":🌲:",)
 if st.button("🏠"):
     st.switch_page("TriglavskiNarodniPark.py")
 if st.button("➡"):
-    st.switch_page("pages/5_🌊_vode.py")
+    st.switch_page("pages/5_🌊_Vode.py")
 if st.button("⬅"):
     st.switch_page("pages/3_🦌_Živali.py")
 
