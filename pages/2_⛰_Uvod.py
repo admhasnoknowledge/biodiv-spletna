@@ -2,7 +2,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 st.set_page_config(page_title="Triglavski Narodni Park", page_icon=":🏔:",)
 
-st.page_link("TriglavskiNarodniPark.py",label="Domača stran", icon="🏠")
+
 
 if st.button("🏠"):
     st.switch_page("TriglavskiNarodniPark.py")
