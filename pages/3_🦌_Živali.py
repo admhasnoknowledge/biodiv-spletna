@@ -12,7 +12,7 @@ if st.button("⬅"):
 
 st.title(":red[Živali v TNP]")
 
-st.markdown("V Triglavskem narodnem parku naj bi po sedanjih podatkih živelo okoli :rainbow[7.000] različnih vrst. Spodaj so predstavljeni znani (in meni zanimivi) predstvniki:")
+st.markdown("V Triglavskem Narodnem Parku se najde veliko različnih živali. Spodaj so predstvljene nekatere vrste, ki so meni zanimive")
 
 st.title("Alpski Kozorog")
 st.markdown("Alpski kozorog (Capra ibex) je močna, čokata koza s sivkasto dlako. Živi na gorskih traviščih nad gozdno mejo, v zimskem času pa se spusti tudi do gozdne meje. V skalnem svetu je izredno spreten. Z mesta lahko skoči 2 m visoko, z zaletom do 4 m.")

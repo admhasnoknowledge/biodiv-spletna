@@ -14,6 +14,7 @@ st.title("Triglavski Narodni Park")
 
 st.markdown("**Triglavski narodni park** (TNP) se nahaja v središču Julijskih Alp. Imenovan je po _Triglavu_, naši najvišji gori (2864m). Obsega 840km^2, kar je približno 4% površine Slovenije.") 
 st.image("img/triglavski_1.jpg")
+st.markdown("### V Triglavskem narodnem parku naj bi po sedanjih podatkih živelo okoli :rainbow[7.000] različnih vrst.")
 
 st.markdown("TNP je znan po svojih razgledih, reliefu in bogati biodiverziteti, ki je tudi zelo vidna. Park je vključen tudi v program **Natura 2000**.")
 st.markdown("V parku se opazi veliko raznolikosti zaradi mešanja podnebnih vplivov med Alpami in Sredozemljem, bogat je z različnimi vodnimi telesi in ima zelo razgiban relief.")
