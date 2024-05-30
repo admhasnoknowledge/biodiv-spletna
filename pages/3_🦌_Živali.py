@@ -3,6 +3,13 @@ import streamlit.components.v1 as components
 
 st.set_page_config(page_title="Živali v TNP", page_icon=":🐐:",)
 
+if st.button("🏠"):
+    st.switch_page("TriglavskiNarodniPark.py")
+if st.button("➡"):
+    st.switch_page("pages/4_🌲_Rastlinstvo.py")
+if st.button("⬅"):
+    st.switch_page("pages/2_⛰_Uvod.py")
+
 st.title(":red[Živali v TNP]")
 
 st.markdown("V Triglavskem narodnem parku naj bi po sedanjih podatkih živelo okoli :rainbow[7.000] različnih vrst. Spodaj so predstavljeni znani (in meni zanimivi) predstvniki:")

@@ -2,6 +2,12 @@ import streamlit as st
 import streamlit.components.v1 as components
 
 st.set_page_config(page_title="Vodni krog v TNP", page_icon="🌊:",)
+
+if st.button("🏠"):
+    st.switch_page("TriglavskiNarodniPark.py")
+if st.button("⬅"):
+    st.switch_page("pages/4_🌲_Rastlinstvo.py")
+
 st.title("Vode v TNP")
 st.markdown("Na tej strani se nahaja mala galerija različnih vodnih teles v Triglavskem narodnem parku:")
 st.page_link("https://www.tnp.si/sl/park/narava/vodni-krog/", label="Za več: Vodni krog v TNP", icon="🚿")
